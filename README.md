@@ -1,4 +1,7 @@
 ### Hi there 👋
+Sou apenas um estudante entusiasta em Node.JS e React.
+
+
 
 <!--
 **juliumnix/juliumnix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
