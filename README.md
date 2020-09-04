@@ -1,5 +1,6 @@
 ### Hi there 👋
 Sou apenas um estudante entusiasta em Node.JS e React.
+Amo desenvolver React Native 💙
 
 
 
