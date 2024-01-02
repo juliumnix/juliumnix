@@ -1,5 +1,4 @@
 ### Hi there 👋
-Sou apenas um estudante entusiasta em desenvolvimento Mobile.
 <!-- Amo desenvolver React Native 💙
  -->
 
